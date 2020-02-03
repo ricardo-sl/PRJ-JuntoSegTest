@@ -46,7 +46,7 @@ namespace API.Domain
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    Title = "My API",
+                    Title = "Junto CRUD User API",
                     Version = "v1",
                     Description = "Backend-API para teste de desenvolvimento",
                     Contact = new OpenApiContact
