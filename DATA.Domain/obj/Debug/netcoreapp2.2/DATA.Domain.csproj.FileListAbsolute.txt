@@ -1,0 +1,8 @@
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.deps.json
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfoInputs.cache
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.AssemblyInfo.cs
+C:\JuntoSeguros\TesteBackend\DATA.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\DATA.Domain\obj\Debug\netcoreapp2.2\DATA.Domain.csprojAssemblyReference.cache

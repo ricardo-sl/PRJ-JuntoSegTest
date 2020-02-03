@@ -1,0 +1,11 @@
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\bin\Debug\netcoreapp2.2\SECURITY.Domain.deps.json
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\bin\Debug\netcoreapp2.2\SECURITY.Domain.dll
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\bin\Debug\netcoreapp2.2\SECURITY.Domain.pdb
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.csprojAssemblyReference.cache
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.AssemblyInfoInputs.cache
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.AssemblyInfo.cs
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.dll
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.pdb
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.dll
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\bin\Debug\netcoreapp2.2\DATA.Domain.pdb
+C:\JuntoSeguros\TesteBackend\SECURITY.Domain\obj\Debug\netcoreapp2.2\SECURITY.Domain.csproj.CopyComplete
